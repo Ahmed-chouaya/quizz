@@ -1,0 +1,47 @@
+.start {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 15%;
+}
+
+.start-title {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 31.25px;
+    line-height: 37px;
+    text-align: center;
+
+    color: #293264;
+}
+
+.start-desc {
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #293264;
+}
+
+.start-button {
+    width: 193px;
+    height: 52px;
+    cursor: pointer;
+
+    background: #4D5B9E;
+    border-radius: 15px;
+    
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 19px;
+    text-align: center;
+
+    color: #F5F7FB;
+}
